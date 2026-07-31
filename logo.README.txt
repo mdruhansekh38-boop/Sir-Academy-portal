@@ -1,0 +1,12 @@
+Place your official SIR Academy logo here as `logo.png`.
+
+The app automatically loads this file in the:
+- Top navigation bar (header)
+- Circular emblem above the login card
+- Favicon / browser tab icon
+- Sidebar of the placeholder dashboard
+
+Until you upload `logo.png`, a designed SVG emblem (graduation cap + "SIR · EST 2016")
+is shown instead, so the UI never displays a broken image.
+
+Recommended: square PNG, at least 192×192 px, transparent or dark background.
